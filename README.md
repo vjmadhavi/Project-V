@@ -35,4 +35,4 @@ Learning and teaching data science and machine learning in a healthcare context.
 The dataset can be approached as a Multi-Class Classification Problem with the “Test Results” column, which contains three categories: Normal, Abnormal, and Inconclusive.
 
 # Acknowledgments:
-This dataset is entirely synthetic and does not contain real patient information or infringe on any privacy regulations. It is intended to advance data science and healthcare analytics and inspire new ideas. Feel free to e
+This dataset is entirely synthetic and does not contain real patient information or infringe on any privacy regulations. It is intended to advance data science and healthcare analytics and inspire new ideas. 
